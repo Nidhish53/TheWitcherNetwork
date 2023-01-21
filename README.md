@@ -1,15 +1,4 @@
 # the_witcher_network
-Source code for the Witcher network project tutorial on my Youtube channel.
+The Witcher Network is a popular series of books by Andrzej Sapkowski. It has become a cultural phenomenon, with its characters and stories inspiring video games, television shows, and more. In this project, we will be using data science techniques to analyze the network of characters in the books. We will use networkx and pyvis to visualize the relationships between characters and web scraping with selenium to get detailed information about them. We will also conduct an analysis on the main protagonists in order to understand their motivations and actions throughout the series.
 
-![network pic 2](https://user-images.githubusercontent.com/22730220/174459596-56fe0394-f263-4090-8ee6-61d77b9a3363.jpeg)
-
-## Tutorial: 
-
-* Episode 1 - [Scraping character names from The Witcher Wiki](https://www.youtube.com/watch?v=RuNolAh_4bU)
-
-[![](https://img.youtube.com/vi/RuNolAh_4bU/0.jpg)](https://www.youtube.com/watch?v=RuNolAh_4bU)
-
-* Episode 2 - [Extracting relationships from books and network analyses](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
-
-[![](https://img.youtube.com/vi/fAHkJ_Dhr50/0.jpg)](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
-
+Firstly we will get the character data from the withcer network website 
